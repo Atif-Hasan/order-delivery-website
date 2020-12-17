@@ -1,0 +1,175 @@
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-Light.eot');
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Light.woff2') format('woff2'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Light.woff') format('woff'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-ThinItalic.eot');
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-ThinItalic.woff2') format('woff2'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-ThinItalic.woff') format('woff'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-Regular.eot');
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Regular.woff2') format('woff2'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Regular.woff') format('woff'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Regular.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-Bold.eot');
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Bold.woff2') format('woff2'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Bold.woff') format('woff'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-Black.eot');
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Black.woff2') format('woff2'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Black.woff') format('woff'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-Medium.eot');
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Medium.woff2') format('woff2'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Medium.woff') format('woff'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-ExtraBold.eot');
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-ExtraBold.woff2') format('woff2'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-ExtraBold.woff') format('woff'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-BlackItalic.eot');
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-BlackItalic.woff2') format('woff2'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-BlackItalic.woff') format('woff'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-RegularItalic.eot');
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-RegularItalic.woff2') format('woff2'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-RegularItalic.woff') format('woff'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-RegularItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-BoldItalic.eot');
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-BoldItalic.woff2') format('woff2'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-BoldItalic.woff') format('woff'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-MediumItalic.eot');
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-MediumItalic.woff2') format('woff2'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-MediumItalic.woff') format('woff'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-Thin.eot');
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Thin.woff2') format('woff2'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Thin.woff') format('woff'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-LightItalic.eot');
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-LightItalic.woff2') format('woff2'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-LightItalic.woff') format('woff'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01 Hairline';
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-HairlineItalic.eot');
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-HairlineItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-HairlineItalic.woff2') format('woff2'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-HairlineItalic.woff') format('woff'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-HairlineItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01 Hairline';
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-Hairline.eot');
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-Hairline.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Hairline.woff2') format('woff2'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Hairline.woff') format('woff'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-Hairline.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-ExtraBoldItalic.eot');
+    src: url('../fonts/BwModelicaSS01/BwModelicaSS01-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-ExtraBoldItalic.woff2') format('woff2'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-ExtraBoldItalic.woff') format('woff'),
+        url('../fonts/BwModelicaSS01/BwModelicaSS01-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
